@@ -1,0 +1,3 @@
+MONNITOR = "monitor.lua"
+SERVERIP = "127.0.0.2"
+SERVERPORT = 9998
